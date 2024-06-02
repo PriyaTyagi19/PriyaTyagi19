@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyaTyagi19
 - 👀 I’m interested in building optimized and responsive websites on the front end.
-- 🌱 I’m currently learning React.js and SQL.
+- 🌱 Currently a student at BCIT.
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me email: priyatyagi1905@gmail.com
 
