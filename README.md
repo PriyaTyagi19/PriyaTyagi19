@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyaTyagi19
 - 👀 I’m interested in building optimized and responsive websites on the front end.
-- 🌱 Currently a student at BCIT.
+- 🌱 Graduated from BCIT.
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me email: priyatyagi1905@gmail.com
 
